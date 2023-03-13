@@ -5,7 +5,7 @@ specifiers:
   '@vue/compiler-sfc': ^3.2.33
   '@vue/server-renderer': ^3.2.33
   vite: ^4.0.3
-  vite-plugin-ssr: 0.4.89
+  vite-plugin-ssr: 0.4.93
   vue: ^3.2.33
 
 dependencies:
@@ -13,7 +13,7 @@ dependencies:
   '@vue/compiler-sfc': 3.2.47
   '@vue/server-renderer': 3.2.47_vue@3.2.47
   vite: 4.1.4
-  vite-plugin-ssr: 0.4.89_vite@4.1.4
+  vite-plugin-ssr: 0.4.93_vite@4.1.4
   vue: 3.2.47
 
 packages:
@@ -861,8 +861,8 @@ packages:
     engines: {node: '>=6'}
     dev: false
 
-  /vite-plugin-ssr/0.4.89_vite@4.1.4:
-    resolution: {integrity: sha512-qdqP6MSR2yYikuZ4N7+Fn4us0WJ5umVRpuZ9VooDChI3Cli7hFDlAclD13nPilDk/C8P0jv8aNJLZKxv+ATo4A==}
+  /vite-plugin-ssr/0.4.93_vite@4.1.4:
+    resolution: {integrity: sha512-DvAWZy6SVIcdrnyU9tje6hkgSUrUQzDrjvh1qQck1xGE3FnhQQW8MrO4knq6LqPqtzA2pvHKBOPPHGr8qD/1Tg==}
     engines: {node: '>=12.19.0'}
     hasBin: true
     peerDependencies:
