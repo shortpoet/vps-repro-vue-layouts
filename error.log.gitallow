@@ -1,0 +1,7 @@
+12:11:59 PM [vite-plugin-ssr] HTTP Request ERR /
+[vite-plugin-ssr@0.4.93][Warning] No _error.page.js found. We recommend creating a _error.page.js file. See https://vite-plugin-ssr.com/error-page for more information. (This warning isn't shown in production.)
+ReferenceError: _sfc_main is not defined
+    at eval (/pages/index.page.vue:16:20)
+    at async instantiateModule (file:///Users/Shared/source/repos/zorbae/vps-repro-vue-layouts/node_modules/.pnpm/vite@4.1.4/node_modules/vite/dist/node/chunks/dep-ca21228b.js:52420:9)
+12:12:00 PM [vite-plugin-ssr] HTTP Request ERR /mockServiceWorker.js
+[vite-plugin-ssr@0.4.93][Warning] No _error.page.js found. We recommend creating a _error.page.js file. See https://vite-plugin-ssr.com/error-page for more information. (This warning isn't shown in production.)
